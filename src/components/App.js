@@ -14,8 +14,8 @@ const App = () => {
       <main>
         <Hero />
         <ResortList />
-        <Footer />
       </main>
+      <Footer />
     </div>
   )
 };
