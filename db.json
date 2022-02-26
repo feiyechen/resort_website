@@ -1,0 +1,28 @@
+{
+    "resorts": [
+      { 
+        "id": 1, 
+        "title": "Iceland room", 
+        "price": 100.00, 
+        "img": "https://resort-destination-app.s3.us-east-2.amazonaws.com/resort1.webp" 
+      },
+      { 
+        "id": 2, 
+        "title": "Toronto room", 
+        "price": 200.00, 
+        "img": "https://resort-destination-app.s3.us-east-2.amazonaws.com/resort2.webp" 
+      },
+      { 
+        "id": 3, 
+        "title": "Beijing room", 
+        "price": 300.00, 
+        "img": "https://resort-destination-app.s3.us-east-2.amazonaws.com/resort3.webp" 
+      },
+      { 
+        "id": 4, 
+        "title": "Guangzhou room", 
+        "price": 400.00, 
+        "img": "https://resort-destination-app.s3.us-east-2.amazonaws.com/resort4.webp" 
+      }
+    ]
+}

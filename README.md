@@ -1,3 +1,5 @@
-# Resort App
+# Resort Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses react, json-server, react-router to build.
+
+Welcome to visit https://cjv-resort-web.herokuapp.com/
