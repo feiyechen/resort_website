@@ -46,7 +46,11 @@ const ResortList = () => {
             */}
 
           {resorts.map(item => (
-            <ResortItem title={item.title} image={item.img} price={item.price}/>
+            <ResortItem 
+              id={item.id} 
+              title={item.title} 
+              image={item.img} 
+              price={item.price}/>
           ))}
 
         </div>
